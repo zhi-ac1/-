@@ -1,16 +1,24 @@
-第一步、初始化并下载echars依赖
+## 初始化并下载echars依赖
+
+### 初始化
 
 ~~~
 npm init -y
 ~~~
 
+### 安装echars依赖
+
 ~~~
 npm install echarts 
 ~~~
 
+### 启动项目
+
 ~~~
 npx serve .
 ~~~
+
+## 
 
 
 
